@@ -1,2 +1,4 @@
 # Giantic
 The official PocketMine-MP based Minecraft: Bedrock Edition server software made exclusively for TheRetroMiners Hungarian Minecraft: BE Network (Written in PHP)
+
+Download soon! Please do not contact with me in connection download links of Giantic, because the software is privat and not a public work.
